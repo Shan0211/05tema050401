@@ -1,0 +1,107 @@
+[{
+    "id": 1,
+    "navn": "Spaghetti Bolognese",
+    "kategori": "pasta",
+    "billede": "pasta1.jpg",
+    "beskrivelse": "Spaghetti med vores hjemmelavet kødsauce. Vi har brugt over 10 år på at perfektioner vores kødsauce, så den har fået den helt rette smag.",
+    "kort": "Den klassiske Bolognese, som vi kender den fra barndommen. ",
+    "pris": 45
+}, {
+    "id": 2,
+    "navn": "Pasta med kylling",
+    "kategori": "pasta",
+    "billede": "pasta2.png",
+    "beskrivelse": "Tomat, aspagers, kylling og en fantisk pasta. Drysset med noget parmasanost. Det er den helt perfekte pastaret til et hvert tidspuntk på døgnet.!",
+    "kort": "Denne pastaret er noget helt specielt. Blandet med vores marineretkylling.",
+    "pris": 55
+},
+ 
+ 
+ 
+ 
+ {
+    "id": 3,
+    "navn": "Pizza med Pepperoni",
+    "kategori": "pizza",
+    "billede": "pizza1.png",
+    "beskrivelse": "Det sjælent man har en pizzafest uden pepperoni pizzaen. Det er den helt klassike gode pizza vi alle har prøvet.",
+    "kort": "Pepperoni er altid børnenes favoriter, måske også din?",
+    "pris": 74
+}, {
+    "id": 4,
+    "navn": "Vegetar Pizza El Specialo",
+    "kategori": "pizza",
+    "billede": "pizza2.png",
+    "beskrivelse": "Champagnion, tomater, majs og vores dejlige brokoli. Det er vores dejlige vegatar pizza der adskiller sig lidt fra den almindelige vegetarpizza",
+    "kort": "Pizzaen der bare vil mere end bare at være end pizza",
+    "pris": 79
+}, {
+    "id": 5,
+    "navn": "The Red Devil Pizza",
+    "kategori": "pizza",
+    "billede": "pizza3.png",
+    "beskrivelse": "Det er masser af Chili og stærk ingredienser til den her pizza. Det er en pizza til ægte mænd!",
+    "kort": "The Red Devil pizza er en meget stærk Pizza med alt det røde",
+    "pris": 84
+}, 
+
+ 
+ 
+ 
+ 
+ 
+ {
+    "id": 6,
+    "navn": "Pomodoro Salat",
+    "kategori": "salat",
+    "billede": "salat1.jpg",
+    "beskrivelse": "Pomodoro Salat også kendt som Tomat salaten er den helt rette salat for tomat og fetaost elskeren. Vi bruger de bedste og mest friske tomater vi for leveret til vores tomatsalat.",
+    "kort": "Pomodoro Salat også kendt som Tomat salaten er den helt rette salat for tomat og fetaost elskeren",
+    "pris": 50
+}, {
+    "id": 7,
+    "navn": "Cæsarsalat",
+    "kategori": "salat",
+    "billede": "salat2.jpg",
+    "beskrivelse": "Cæsarsalaten, kender vi alle, men det dog kun den italienske cæsarsalat der kan få en salat til at gå fra at bare være en salat til et måltid.",
+    "kort": "Den klassiske Cæsarsalat, med alt det dejlige vi kender den fra.",
+    "pris": 55
+}, {
+    "id": 8,
+    "navn": "Blandet salat",
+    "kategori": "salat",
+    "billede": "salat3.jpg",
+    "beskrivelse": "Alle de dejlige grøntsager og en lille smule olivenolie, det kan ikke gå galt!",
+    "kort": "Blandet salat med alt det vi elsker",
+    "pris": 40
+},
+ 
+ 
+ 
+ 
+ 
+ {
+    "id": 9,
+    "navn": "Terragnolo Salento",
+    "kategori": "vin",
+    "billede": "vin4.png",
+    "beskrivelse": "Druerne til den årlige produktion på ca. 500.000 flasker kommer dels fra 10 hektar jord i området omkring byen Copertino som firmaet selv ejer og dels fra små men velvalgte vinbønder. For at sikre den høje kvalitet som kendetegner Apollonios vine, plukkes alle druer manuelt, og intet sted hverken på Apollonios egne marker eller hos leverandørerne overstiger udbyttet 55 hektoliter per hektar.",
+    "kort": "Denne Chianti Superiore har de klassiske karakteristika af Sangiovese druen.",
+    "pris": 110
+}, {
+    "id": 10,
+    "navn": "Grotta Rossa Carignano Del Sulvis",
+    "kategori": "vin",
+    "billede": "vin5.png",
+    "beskrivelse": "Modsat mange andre kooperativer satser Santadi udelukkende på kvalitetsvin, og har derfor vedtaget et maksimalt udbytte på ca. 40 hl per hektar. Ydermere har de valgt kun at bruge lokale sardiske druer, hovedsageligt Carignano, Monica og Nuragus til de røde vine og vermentino og nasco til de hvide.",
+    "kort": "Flot vinøs duft, svagt krydret, varm og frugtrig med en flot balance",
+    "pris": 99
+}, {
+    "id": 11,
+    "navn": "Cabernet Sauvignon - Merlot 2014",
+    "kategori": "vin",
+    "billede": "vin6.png",
+    "beskrivelse": "Som navnet antyder, vinicola, er Bove at betragte som negociant dvs. de baserer deres produktion på købedruer. For en stor dels vedkommende stammer druerne fra faste underleverandører med hvem man har haft et mangeårigt samarbejde. Dette har sikret Bove en privilegeret position i kampen om de gode partier. Udover dette, har investeringer i moderne procesudstyr gjort det muligt for Bove at kombinere kvantitet med kvalitet og pris/kvalitetsforholdet er helt i top for Boves vine.",
+    "kort": "Blød og afrundet med en frisk tørhed samt lidt fedme fra Chardonnayen",
+    "pris": 79
+}]
